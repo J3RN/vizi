@@ -1,0 +1,8 @@
+#main {
+    display: grid;
+    grid-template-columns: 90% 10%;
+}
+
+#image-container {
+    height: 100vh;
+}
